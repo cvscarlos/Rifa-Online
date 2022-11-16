@@ -1,0 +1,13 @@
+{
+  "name": "rifa-online",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel frontend/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.0",
+    "parcel": "^2.8.0"
+  }
+}
